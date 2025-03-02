@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+While this is only my second project in the course, playing with animations and other effects was a fun task.
+
+1. **Enhanced Styling** Adding more animations and hover effects to gain more experience utilizing these special effects.
